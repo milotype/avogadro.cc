@@ -6,12 +6,10 @@ categories: Devel
 
 
 
-Launchpad
+Hosted Weblate
 ---------
 
-You can use the online [Rosetta Launchpad](https://translations.launchpad.net/avogadro) tool to help translate Avogadro. These translations are periodically collected and merged into the development repository for new releases.
-
-There are two translation template. One (the "libavogadro" template) is for the core Avogadro library, main extensions, tools, and other plugins. The other is for the Avogadro application.
+You can use the online platform [Hosted Weblate](https://hosted.weblate.org/engage/avogadro/) to help translate Avogadro. These translations are periodically collected and merged into the development repository for new releases.
 
 Mailing List
 ------------
